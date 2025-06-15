@@ -4,6 +4,12 @@
 
 每日一star，aioveuDailyStar
 
+2025/6/15
+1.毒鸡汤
+GitHub地址：https://github.com/egotong/nows
+在线网址：http://www.nows.fun/
+
+非常真实，用最猛的刀，扎向昏沉的你。没事打开就可以打开瞅瞅，毕竟人生苦短都没苦笑过有什么意思！
 
 2025/6/14
 
