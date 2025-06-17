@@ -4,6 +4,54 @@
 
 每日一star，aioveuDailyStar
 
+2025/6/17
+
+1.HowToCook：程序员的厨房秘籍Anduin2017 / HowToCook
+这是一个专为程序员设计的在家做饭指南，用简化的中文详细介绍了如何在家中轻松烹饪美食。对于那些忙碌的程序员来说，这本指南不仅提供了实用的食谱，还融入了程序员的思维逻辑，让做饭变得简单又有趣。
+
+2.markitdown：Markdown转换工具microsoft / markitdown
+由微软开发的Python工具，可以将文件和Office文档转换为Markdown格式。这对于需要将文档格式统一为Markdown的开发者来说，是一个非常实用的工具，大大简化了文档处理流程。
+
+3.fastmcp：快速构建MCP服务器和客户端jlowin / fastmcp
+这是一个快速、Pythonic的方式来构建MCP（多线程并发协议）服务器和客户端的工具。它为开发者提供了高效的并发处理能力，适用于需要高性能通信的应用场景。
+
+4.developer-roadmap：开发者成长路线图kamranahmedse / developer-roadmap
+这是一份互动式的职业发展路线图，为开发者提供了从入门到高级的详细指南。无论是新手还是资深开发者，都可以在这里找到适合自己的学习路径和资源，助力职业成长。
+
+5.PDFMathTranslate：PDF文档翻译利器Byaidu / PDFMathTranslate
+基于AI的PDF文档翻译工具，能够完整保留排版，支持Google、DeepL、Ollama、OpenAI等多种翻译服务，并提供CLI、GUI、MCP、Docker、Zotero等多种使用方式。这对于科研人员和需要处理大量外文文献的用户来说，是一个非常强大的工具。
+
+6.RAG_Techniques：检索增强生成技术NirDiamant / RAG_Techniques
+这个仓库展示了各种检索增强生成（RAG）系统的高级技术。RAG系统结合了信息检索和生成模型，能够提供准确且富有上下文的响应，适用于需要结合大量数据进行生成任务的场景。
+
+7.docmost：开源协作文档软件docmost / docmost
+Docmost是一个开源的协作维基和文档软件，是Confluence和Notion的开源替代品。它支持团队协作编写和管理文档，适合需要高效团队协作的开发团队。
+
+8.inbox-zero：AI邮件助手elie222 / inbox-zero
+这是一个开源的AI个人邮件助手，帮助用户快速实现“收件箱清零”。它通过智能分类和优先级排序，让邮件管理变得更加高效，适合经常被邮件淹没的职场人士。
+
+9.olmocr：PDF线性化工具allenai / olmocr
+由Allen Institute for AI开发的工具包，用于将PDF线性化，以便用于LLM（大型语言模型）的数据集训练。这对于需要处理大量PDF文档的AI研究者来说，是一个非常实用的工具。
+
+10.hydra：游戏启动器hydralauncher / hydra
+Hydra是一个带有嵌入式BitTorrent客户端的游戏启动器。它不仅支持游戏下载和管理，还提供了丰富的插件和自定义功能，适合游戏玩家和开发者。
+
+11.nocobase：低代码平台nocobase / nocobase
+NocoBase是一个以可扩展性为核心、开源的无代码/低代码平台，用于构建商业应用和企业解决方案。它提供了丰富的插件和模板，让开发者可以快速搭建复杂的应用系统。
+
+12.ai-hedge-fund：AI对冲基金团队virattt / ai-hedge-fund
+这是一个专注于AI技术的对冲基金团队项目，展示了如何利用AI技术进行金融投资和风险管理。对于对AI金融应用感兴趣的开发者和投资者来说，这是一个值得探索的项目。
+
+13.public-apis：免费API集合public-apis / public-apis
+这是一个集合了大量免费API的仓库，涵盖了从天气、新闻到金融、社交等多个领域。对于开发者来说，这是一个宝贵的资源，可以帮助他们快速集成各种功能到自己的项目中。
+
+14.anx-reader：智能电子书阅读器Anxcye / anx-reader
+Anx Reader是一款功能强大的AI电子书阅读器，支持多种电子书格式，并通过AI技术提升阅读体验，让阅读更加智能和专注。
+
+15.pocketbase：单文件实时后端pocketbase / pocketbase
+PocketBase是一个开源的单文件实时后端框架，支持多种数据库和API接口，适合快速开发和部署小型到中型应用。
+
+
 2025/6/15
 1.毒鸡汤
 GitHub地址：https://github.com/egotong/nows
