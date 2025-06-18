@@ -4,6 +4,27 @@
 
 每日一star，aioveuDailyStar
 
+2025/6/18
+
+01. 大厂高频算法题
+    汇总各大互联网公司容易考察的高频 Leetcode 题。本仓库用于汇总互联网公司技术岗考察Leetcode题目的热度，帮助同学们更加有针对性地准备面试。
+
+地址：https://github.com/afatcoder/LeetcodeTop
+本仓库有以下优点：
+
+1. 免费开放：汇总的高频题目免费分享给大家
+
+2. 分类精细：按公司、部门、岗位进行分类，方便大家更针对性地准面试
+
+3. 题源可靠：全网收录题目考察情况2，渠道不限于牛客、CSDN博客、热心网友分享等
+
+4. 本土特色：汇总办公地位于中国大陆的互联网企业
+
+7. JavaScript 算法和数据结构
+   这个 100K Star 的仓库是基于 JavaScript 的算法和数据结构教程。每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步观看 YouTube 视频)。
+
+地址：https://github.com/trekhleb/javascript-algorithms
+
 2025/6/17
 
 1.HowToCook：程序员的厨房秘籍Anduin2017 / HowToCook
