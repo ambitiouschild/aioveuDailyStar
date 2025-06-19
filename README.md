@@ -4,6 +4,13 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/6/18
+
+Budibase‌：低代码平台，适合构建企业内部工具（如管理面板、审批系统等），2025年第一季度星星增长量居前列（725颗星）。‌
+
+https://github.com/Budibase/budibase
+
 2025/6/18
 
 01. 大厂高频算法题
