@@ -4,6 +4,17 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/6/26
+
+解决IDEA内存占用过高问题
+
+MemReduct（适用于Windows系统）这款内存清理神器名为MemReduct，专为Windows系统打造。
+它能够深入挖掘并清理电脑中的冗余内存，有效减轻系统的负担，让电脑的运行速度得到显著提升。
+相较于其他同类软件，MemReduct以其高效的清理能力和友好的用户界面，成为了众多用户的首选。
+https://github.com/henrypp/memreduct
+https://github.com/henrypp/memreduct/releases/tag/v.3.5.2
+
 2025/6/20
 
 Supabase‌：开源基础设施项目，截至2025年5月6日拥有8.1万颗星，并获得资本市场的持续支持。‌
