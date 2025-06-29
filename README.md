@@ -4,6 +4,12 @@
 
 每日一star，aioveuDailyStar
 
+2025/6/29
+Notesnook
+
+一个开源的端到端加密笔记软件，可用于替代 Evernote，该项目提供笔记共享、历史回溯、个性化主题定制、富文本编辑，并支持导出成 PDF 与 Markdown 等格式的笔记文件。
+
+https://github.com/streetwriters/notesnook
 
 2025/6/28
 
