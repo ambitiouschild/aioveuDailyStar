@@ -4,6 +4,14 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/6/30
+
+appwrite
+
+全栈 BaaS 平台 / 后端即服务
+https://github.com/appwrite/appwrite
+
 2025/6/29
 Notesnook
 
