@@ -4,6 +4,13 @@
 
 每日一star，aioveuDailyStar
 
+2025/7/2
+
+romm：模拟器游戏玩家必备的 ROM 管理器。
+这是一个基于 Python 开发的 ROM 管理和模拟器平台，支持在浏览器中直接运行游戏。
+用户可通过简洁的 Web 界面，轻松扫描本地游戏、自动抓取游戏封面、统一管理多平台 ROM 资源，兼容 400 多种游戏平台。
+
+https://github.com/rommapp/romm
 
 2025/7/1
 
