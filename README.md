@@ -5,6 +5,26 @@
 每日一star，aioveuDailyStar
 
 
+
+2025/7/13
+
+
+100期
+
+4、Lean：基于 C# 的量化交易引擎。这是一款采用 C# 编写的开源、经过实战考验的量化交易引擎。
+支持使用 Python3 或 C# 编写交易算法，兼容 Windows、Linux 和 macOS 平台，适用于量化交易策略研究、回测和实盘交易等场景。
+
+6、subtitleedit：开源的视频字幕编辑工具。这是一款适用于 Windows 的免费视频字幕编辑器。它开箱即用且功能强大，支持创建、调整、同步和翻录字幕，还提供了自动翻译、字幕格式转换和语音识别等功能。
+
+9、devzat：程序员专属的 SSH 聊天室。这是一个通过 SSH 连接的聊天室，用户无需安装客户端，仅需一条 SSH 命令即可登录。
+它支持私人消息、多聊天室、图片和代码高亮等功能，还可以集成第三方服务、自托管 SSH 聊天室。
+
+14、PojavLauncher：Minecraft 游戏的 Android 启动器。该项目可以让你在 Android 上玩 Minecraft（我的世界），提供了离线和多人联机模式。
+它支持几乎所有版本的 Minercraft，还可以安装 Forge、Fabric 和 OptiFine 等模组和加载器。
+
+41、machine-learning-for-trading：《Machine Learning for Algorithmic Trading》配套代码。
+这是一本关于如何将机器学习应用于交易策略的书籍，该项目是书籍的配套代码和资源，包含 150 多个代码示例，涵盖了数据采集、模型训练和策略评估等方面。
+
 2025/7/12
 
 
