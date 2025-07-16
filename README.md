@@ -5,6 +5,30 @@
 每日一star，aioveuDailyStar
 
 
+2025/7/16
+
+
+97期
+
+12、CompreFace：免费、开源的人脸识别系统。该项目提供了用于人脸识别、检测、验证、头部姿势检测、性别和年龄识别的 REST API 服务，
+不用懂机器学习就能轻松集成到任何系统中。它后端采用 Java 编写，人脸识别是基于 FaceNet 和 InsightFace 实现，同时支持 Docker 部署。
+
+17、strapi：全球领先的开源无头 CMS。这是一款完全免费、采用 JavaScript/TypeScript 开发的无头内容管理系统。它拥有开箱即用的 API 和友好的管理面板，
+自带权限管理、默认安全、SEO 友好等特点。Strapi 作为目前 GitHub 上最流行的开源内容管理系统之一，已成为多家世界 500 强公司的首选 CMS。来自 @greatYe 的分享
+
+32、ollama：本地运行各种 LLM 的工具。这是一个用 Go 语言写的工具，用于在本地一条命令安装、启动和管理大型语言模型，
+支持 Llama 3、Gemma、Mistral 等大模型，适用于 Windows、macOS、Linux 操作系统。
+
+35、containers：各种开源软件的容器镜像集合。这个项目是由 BitNami 维护和开源的 Docker 容器集合，
+包含各种开源软件、系统和 Web 应用。它们都经过了优化和漏洞扫描，可实现 Docker 一键部署，轻松部署应用，无需繁琐的安装和配置过程。
+
+37、ungoogled-chromium：更纯净的 Chrome 浏览器。该项目是一个移除了 Chrome 浏览器中谷歌服务的浏览器，保留了完整的浏览器功能。
+
+39、how-to-learn-robotics：机器人学自学指南。这本指南专为非科班的小伙伴而设计，旨在指导他们如何学习机器人学。
+它包含了必备知识、入门教材推荐、实践项目以及进阶方法等内容，帮助读者逐步成长为一名优秀的机器人工程师。
+
+40、llm-universe：《动手学大模型应用开发》。该项目是专为小白开发者设计的大模型应用开发教程。内容涵盖了大模型的概念介绍、
+如何调用大模型API、知识库的搭建、构建 RAG（Retrieval-Augmented Generation）应用以及评估方法等内容。
 
 2025/7/15
 
