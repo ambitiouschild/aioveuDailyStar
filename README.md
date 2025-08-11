@@ -4,6 +4,17 @@
 
 每日一star，aioveuDailyStar
 
+2025/8/11
+
+VideoCaptioner
+
+开箱即用的智能字幕助手
+
+卡卡字幕助手（VideoCaptioner）操作简单且无需高配置，支持网络调用和本地离线（支持调用GPU）两种方式进行语音识别，
+利用可用通过大语言模型进行字幕智能断句、校正、翻译，字幕视频全流程一键处理！为视频配上效果惊艳的字幕。
+https://github.com/WEIFENG2333/VideoCaptioner
+
+
 
 2025/8/9
 
