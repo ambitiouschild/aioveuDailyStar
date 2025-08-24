@@ -5,6 +5,51 @@
 每日一star，aioveuDailyStar
 
 
+
+2025/8/24
+
+66期
+
+10、
+goflylivechat
+基于 Go 语言实现的在线客服系统，采用 Gin+MySQL+JWT+WebSocket 等技术栈实现
+
+12、
+video-srt-windows
+自动识别视频语音生成字幕文件的工具。采用 Go+walk 开发所以仅支持 Windows 系统，
+原理是请求在线语音转文字的服务，超出免费额度需付费。另外还加入了导出字幕文件和翻译功能
+
+14、
+IJPay
+Java 支付工具库，轻松完成支付模块开发。封装了常用的微信、QQ、支付宝、银联、PayPal 支付等支付方式的各种常用接口。不依赖任何 MVC 框架，轻松接入到 Java 项目
+
+15、
+o2oa
+
+国产的 OA 系统。功能齐全支持考勤、会议管理、云盘等，适用于企业 OA、协同办公
+
+21、
+YesPlayMusic
+
+高颜值的第三方网易云播放器。它不仅拥有简洁美观的外观，还有丰富的功能
+
+支持 Windows/macOS/Linux
+私人 FM/每日推荐歌曲
+网易云账号登录
+歌词显示
+自定义快捷键和全局快捷键
+等等
+
+23、
+iOSInterviewQuestions
+iOS 面试题集合（附答案）
+
+39、
+pumpkin-book
+
+《机器学习公式详解》西瓜书公式推导解析。在线阅读
+
+
 2025/8/23
 
 66期
