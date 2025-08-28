@@ -5,6 +5,42 @@
 每日一star，aioveuDailyStar
 
 
+2025/8/28
+
+62期
+1、
+discount
+一个用 C 语言编写的 Markdown 实现，可以轻松将 MD 文档转换为 HTML 格式
+8、
+cloudreve
+
+支持多种存储服务的云文件桌面管理工具。开箱即用，功能丰富
+
+拖拽上传、目录上传、流式上传处理
+客户端直传和限速下载
+视频、图像、音频、文本、Office 文档在线预览
+
+12、
+Apktool
+反编译 Android 安装包 APK 文件的工具
+18、
+UTM
+运行在 iOS 和 macOS 系统上的虚拟机。通过 UTM 你可以在无需“越狱”的情况下，在 iPhone 和 iPad 上运行 Windows、Linux 等操作系统
+
+20、
+BaoTa
+宝塔 Linux 服务器运维管理平台。简单好用的服务器运维平台，支持一键 LNMP 安装、管理集群、网站、数据库等功能，
+可以有效的提高操作的规范性和安全性，降低出错概率。这个开源项目是免费版，还有付费的专业版
+
+29、
+awesome-compose
+
+丰富且实用的 Docker Compose 示例集合。该项目中的例子可以作为参考和模板，从而快速完成 Docker Compose 的编写
+
+34、
+bitcoinbook
+《Mastering Bitcoin 2nd Edition》精通比特币第 2 版
+
 2025/8/27
 
 63期
