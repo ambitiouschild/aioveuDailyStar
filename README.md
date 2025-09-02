@@ -5,6 +5,62 @@
 每日一star，aioveuDailyStar
 
 
+2025/9/2
+
+60期
+
+1、
+rtty
+能够通过 Web 登录 Linux 终端的开源项目。
+采用 C 语言实现，算上依赖库体积不到 100KB，可用于嵌入式 Linux 设备。拥有 Web 管理界面，用此项目可以方便地远程维护 Linux 设备
+
+12、
+cool-admin-midway
+一款基于 Node.js+midway.js 的后台权限管理系统。它开源免费不仅能够快速开发增删改查的需求，
+还支持 Serverless、Docker 等多种方便的部署方式，不管是用来学习如何开发管理后台，还是快速开发都是不错的选择
+13、
+edex-ui
+一款跨平台基于 Electron 的炫酷终端工具。好莱坞级别的终端使用体验，拥有漂亮的启动动画、浮夸的音效，还能够直观地展示文件目录、系统资源、网络等信息
+14、
+joplin
+
+Markdown 友好的开源笔记软件。这是一款免费的开源笔记软件，能够方便地管理待办事项和处理大量笔记。可以直接导入印象笔记（Evernote）的笔记和
+Markdown 文件，提供了 Windows、macOS、Linux、Android 和 iOS 等主流操作系统客户端。它不仅支持离线使用，同时也支持自定义网盘同步笔记，
+从而实现多端无缝创作。
+
+28、
+Paddle
+
+百度开源的深度学习框架。开发便捷的产业级深度学习框架，支持千亿特征、万亿参数、数百节点的大规模训练。官方还为用户提供了免费的算力可用于学习和训练，
+社区活跃教程齐全对新手友
+
+30、
+azuredatastudio
+
+微软开源的数据库桌面管理工具。该工具支持 SQL Server、Azure SQL DB 和 SQL DW 数据库，Windows 下的安装包仅不到 100 MB，
+还支持另外两大操作系统 macOS 和 Linux。如果开发中用到了上面的几种数据库，就试试这款免费的数据库桌面管理工具吧
+
+32、
+Docker-OSX
+
+让你用 Docker 跑 macOS 操作系统的项目。仅需 2 条命令分分钟让你起来一个 macOS 操作系统，听着刺激吧！搞起来：
+
+# 拉镜像
+docker pull sickcodes/docker-osx:latest
+
+# 运行
+docker run -it \
+--device /dev/kvm \
+-p 50922:10022 \
+-v /tmp/.X11-unix:/tmp/.X11-unix \
+-e "DISPLAY=${DISPLAY:-:0.0}" \
+sickcodes/docker-osx:latest
+
+33、
+what-happens-when
+该项目详细地解释了当你在浏览器中输入 google.com 按下回车后发生了什么。中文
+
+
 2025/8/29
 
 61期
