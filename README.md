@@ -32,6 +32,8 @@ avatarify-python
 27、
 AndroidSDK
 
+
+
 包含完整 Android SDK 运行环境的 Docker 镜像。适用于各种 Android 持续集成场景，甚至包括模拟器运行应用、界面自动化测试，也可以连接云端进行自动化测试。
 Android 构建的容器镜像解决方案之一（不违法许可协议的方案），并在 Docker 官方的 DockerCon EU 2017 进行过宣讲
 
