@@ -5,6 +5,24 @@
 每日一star，aioveuDailyStar
 
 
+2025/9/9
+
+53期
+
+3、
+Windows-Auto-Night-Mode
+
+设置定时自动切换 Windows 10 深色和浅色主题的工具
+
+9、
+LeetCode-Go
+《LeetCode Cookbook》是帮助开发者在 LeetCode 上做题，提供解题思路和代码的项目
+目前已经收录了 500+ 道题的题解和代码，代码都是 runtime beats 100%，代码全部都是用 Go 语言实现。在线阅读
+
+12、
+D8gerAutoCode
+IDEA Java 代码自动生成插件。支持自动生成单表增删改查、分页、注释等
+
 
 
 
