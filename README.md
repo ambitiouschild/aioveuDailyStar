@@ -4,6 +4,42 @@
 
 每日一star，aioveuDailyStar
 
+2025/9/12
+
+50期
+
+4、
+css.gg
+
+开源图标 UI 库。支持 CSS、SVG、Figma、NPM 等
+
+9、
+kkFileView
+
+基于 Spring boot 打造的多类型文件在线预览项目。支持多种文件例如：doc、ppt、xls、mp4、txt 等，功能强大便于快速开发和二次开发
+13、
+ce
+一个轻量级、功能强大的电子表格库。轻松实现复杂数据的表格管理，支持 JS 数组、JSON、CSV 等数据，并且可以实现 excel 文件的直接复制和粘贴。示例代码：
+
+
+14、
+form-create
+一个可以通过 JSON 自动生成具有动态渲染、数据收集、验证和提交功能的表单生成器。结合内置多种常用表单组件和自定义组件，轻松搞定复杂的表单，支持 iview、element-ui、and-design-vue
+18、
+geek_crawler
+
+极客时间课程（目前仅支持图文、音频）下载到本地的 Python 脚本。需输入账号密码后，才能将指定极客时间专栏课程保存到本地，方便随时随地学习
+27、
+GitHub520
+通过修改 hosts 解决 GitHub 访问慢、图裂问题的项目。基于 GitHub Action 定时访问 ipaddress 自动获取、输出 GitHub 
+相关域名对应的最新 IP 保证长期有效，用户不需要安装和运行代码，直接复制项目首页的内容便可生效
+
+
+
+
+
+
+
 2025/9/11
 
 51期
