@@ -4,6 +4,37 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/9/13
+
+49期
+1、
+switch-lan-play
+在局域网玩 Switch 游戏的工具。让您和您的朋友像在局域网中一样玩 switch 游戏。
+10、
+concurrent
+
+RedSpider 社区开源的《深入浅出 Java 多线程》教程。在线阅读
+
+
+12、
+linkis
+
+一款支持多种计算存储引擎的企业级计算中间件。打通了 Spark、TiSpark、Hive 等存储引擎，提供统一作业执行服务，支持提交 SQL、PySpark、HQL 等各种脚本的计算请求
+
+13、
+toBeTopJavaer
+一份全面、系统的 Java 学习教程。推荐给刚入门 Java、需要进阶的小伙伴，在线阅读
+
+31、
+webrtc-book-cn
+《Real-Time Communication with WebRTC》中文翻译版，WebRTC 实时通信。在浏览器中提供丰富的音频和视频实时通信和点对点数据交换，
+不需要私有插件。这本书向您展示了如何使用新兴的 Web 实时通信（WebRTC）技术来构建一个浏览器到浏览器通信的应用程序
+
+
+
+
+
 2025/9/12
 
 50期
