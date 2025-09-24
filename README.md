@@ -5,6 +5,42 @@
 每日一star，aioveuDailyStar
 
 
+
+2025/9/24
+
+38期
+2、
+CovenantSQL
+具有区块链特性的去中心化 SQL 关系型数据库。可以提供 DBaaS 服务，去中心化存储保证用户隐私。中文文档，MacOS 系统可以通过 brew install cql 直接安装
+5、
+golang-developer-roadmap
+成为 Go 开发者的学习路线图，中文版
+9、
+Android-BLE
+Android 蓝牙框架，包括扫描、连接、设置通知、发送数据、读取、接收数据和 OTA 升级等。近乎一行代码植入项目，可扩展、配置蓝牙相关操作，适用于 Android-BLE4.0 蓝牙。即便是 BLE 方面的小白也可以在短短几分钟内接入并运用到项目中
+
+10、
+generator-jhipster
+用于在几秒钟内创建 Spring Boot + Angular/React 项目的开源应用程序生成器（脚手架）。它可以自动化生成一个完整 Web 应用或微服务架构，加快项目的开发效率。特点和技术栈：
+
+基于 Spring Boot 框架的服务端，具备高性能和高可用的 Java 技术栈
+基于 Angular、React、Bootstrap 的时尚、现代、移动优先的前端
+基于 JHipster Registry、Netflix OSS、ELK 堆栈和 Docker 的强大的微服务架构
+使用 Yeoman、Webpack 和 Maven/Gradle 构建应用程序的强大工作流程
+13、
+ieaseMusic
+基于网易云音乐 API 开发的第三方客户端，支持 Linux、Mac OS 系统。成熟的 JS 桌面应用产品，颜值很高，音乐资源丰富
+23、
+Brooklyn
+炫酷的苹果电脑屏幕保护程序
+33、
+hacker-laws
+
+程序员工作中可能使用到的定律、原则的讲解，这些原则多应用于我们的开发和设计中，开卷有益
+
+
+
+
 2025/9/23
 
 39期
