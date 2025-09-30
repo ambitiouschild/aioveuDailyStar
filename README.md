@@ -3,6 +3,35 @@
 
 
 每日一star，aioveuDailyStar
+2025/9/30
+
+33期
+
+2、
+LeetCodeAnimation
+用动画的形式呈现解 LeetCode 题目的思路
+4、
+ptt-daily-beauty
+每晚 11 点会自动发送 PTT 论坛（台湾最大论坛） Beauty 板块前 3 名的小姐姐图片。点击订阅
+
+7、
+yeetgif
+一个命令行工具，用来组合、生成表情的 gif 动图。支持多种模式：旋转、抖动、鬼畜等，可以组合出很魔性的表情
+11、
+js2image
+
+将源代码压缩成圣诞树的样子，使用此项目压缩生产环境代码后请注意测试。有兴趣的小伙伴可以尝试扩展出压缩成其它样子，很有意思
+
+14、
+ish
+在 iOS 上跑 Linux shell，可以通过 linux 命令操作你的 iOS 设备
+
+26、
+Back-End-Developer-Interview-Questions
+
+《后端开发面试题》中文
+
+
 
 
 2025/9/29
