@@ -3,6 +3,24 @@
 
 
 每日一star，aioveuDailyStar
+
+2025/10/1
+
+32期
+
+2、
+os-tutorial
+（英文）如何从头开始创建操作系统
+18、
+himawaripy
+一个 Python3 脚本，它会定时（需设置定时任务）抓取由日本 Himawari 8 气象卫星拍摄的接近实时的地球照片，并将它设置成你的桌面背景
+24、
+Best-websites-a-programmer-should-visit
+
+程序员应该放到收藏夹的网站。中文版
+25、
+lemonade-stand
+《开源项目挣钱实用手册》中文版
 2025/9/30
 
 33期
