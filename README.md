@@ -4,6 +4,31 @@
 
 每日一star，aioveuDailyStar
 
+2025/10/4
+
+30期
+
+3、
+octicons
+
+GitHub 官方开源的 GitHub 网站上用的图标库
+4、
+simple-icons
+1000+ 个流行品牌的免费 SVG 图标库。在线预览
+
+6、
+frp
+一个可用于内网穿透的高性能的反向代理应用，支持 tcp、udp、http、https 协议。有时想要让其他人（外网）通过域名访问或者测试我们在本地搭建的 web 服务，
+但是由于本地机器没有公网 IP，无法将域名解析到本地的机器，通过 frp 就可以实现这一功能。例如：微信公众号开发、slack bot 开发等，中文文档
+
+13、
+iOS-InterviewQuestion-collection
+iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。
+
+18、
+chinese-xinhua
+
+中华新华字典数据库。包括歇后语，成语，词语，汉字
 
 2025/10/3
 
