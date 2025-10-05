@@ -4,6 +4,35 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/10/5
+
+29期
+
+1、
+libaco
+一个极速、轻量级、C语言非对称协程库。中文文档，项目介绍：
+
+生产级别的 C 协程库
+核心实现不超过 700 行代码，实现了一个协程库应该有的全部功能
+在 AWS c5d.large 机器上的性能测试，一次协程间上下文切换仅耗时 10 ns （独立执行栈）
+一千万个协程并发执行仅消耗2.8GB的物理内存
+6、
+lazygit
+终端里的 Git 客户端。该客户端启动比各路 GUI 客户端快N倍，功能基本一致。安装 go get github.com/jesseduffield/lazygit，然后 lazygit 启动。Ready？Go
+21、
+snibox
+代码片段管理器。支持各种编程语言的代码片段、Markdown、纯文本。在线示例
+23、
+chinese-independent-developer
+
+中国独立开发者项目列表
+28、
+simple_os_book
+操作系统的基本原理与简单实现的教学项目。以操作系统基本原理为教学引导，RISC-V CPU 为底层硬件基础，设计并实现一个微型但全面的“麻雀”操作系统——ucore
+
+
+
 2025/10/4
 
 30期
