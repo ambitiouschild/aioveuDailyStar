@@ -4,6 +4,48 @@
 
 每日一star，aioveuDailyStar
 
+2025/10/6
+
+28期
+
+2、
+cpp-cheat-sheet
+能够帮你通过 Google 和 NASA 面试的 C++ 数据结构和算法的 cheat sheet（英文）
+4、
+pure
+雅虎公司出品的一组轻量级、响应式纯 CSS 模块，适用于任何 Web 项目。本网站就是采用 Pure.css 模版构建，中文文档
+10、
+Auto.js
+不需要 ROOT 权限的类似按键精灵的自动操作软件，可以实现自动点击、滑动、输入文字、打开应用等。Auto.js 的大部分用户用它来点赞、签到、刷游戏
+12、
+vjtools
+
+唯品会的 Java 技术干货分享
+18、
+scylla
+一款高质量的免费代理 IP 池工具，仅支持 Python 3.6。中文文档，特性如下：
+
+自动化的代理 IP 爬取与验证
+易用的 JSON API
+简单但美观的 web 用户界面，基于 TypeScript 和 React（例如，代理的地理分布）
+最少仅用一行代码即可与 Scrapy 和 requests 进行集成
+等等
+
+19、
+Best-App
+苹果系统下的优秀软件、硬件、技巧、周边设备的集合
+
+20、
+CS-Interview-Knowledge-Map
+
+这是一份制作精良、系统的面试图谱。内容包括：前端、计算机网络、算法、数据结构等方面。相信认真学习完这份资料，你会找到自己心仪的工作。在线阅读
+21、
+follow-me-install-kubernetes-cluster
+部署 kubernetes 集群教程。该教程介绍使用二进制部署最新 kubernetes 集群的所有步骤，而不是使用 kubeadm 等自动化方式来部署集群。这样有助于理解系统各组件的交互原理，进而能够快速定位、解决实际中遇到的问题
+
+
+
+
 
 2025/10/5
 
