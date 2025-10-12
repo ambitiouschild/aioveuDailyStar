@@ -4,6 +4,28 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/10/12
+
+23期
+3、
+WxJava
+开源、非官方、功能全面的微信开发 Java SDK，支持包括微信支付、开放平台、小程序、企业号和公众号等功能的开发。示例 Demo 索引，以及详细的开发文档
+7、
+iOS-Performance-Optimization
+关于 iOS 性能优化梳理。包含基本工具、业务优化、内存优化、卡顿优化、布局优化、电量优化、 安装包瘦身、启动优化、网络优化等
+12、
+toapi
+
+该项目做的事儿是通过简单的配置把目标网页的内容爬下来，缓存结果后提供成 API 的一条龙服务。
+13、
+LyricsX
+一个为 iTunes、Spotify、Vox 播放器提供自动下载歌词，并在桌面和任务栏显示的插件
+
+16、
+Back-End-Developer-Interview-Questions
+后端面试问题集合
+
 2025/10/11
 
 24期
