@@ -4,6 +4,32 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/10/16
+
+20期
+2、
+robomongo
+免费、开源的 MongoDB 跨平台桌面管理工具，支持 Windows、Linux、Mac
+
+6、
+Android-Pay
+
+支持微信和支付宝两种主流支付的集成库，示例代码如下：
+9、
+IDValidator
+中国大陆个人身份证号验证，支持 15、18 位身份证号，API 如下：
+
+isValid 验证号码是否合法，合法返回 True，不合法返回 False
+getInfo 号码合法时返回分析信息（地区、出生日期、性别、校验位），不合法返回 False
+makeID 伪造一个符合校验的 ID
+21、
+hangzhouYunQi2017ppt
+2017 杭州云栖大会精华 PPT，移步到阿里云下载与浏览
+
+
+
+
 2025/10/14
 
 21期
