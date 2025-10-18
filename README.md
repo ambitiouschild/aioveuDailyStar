@@ -5,6 +5,27 @@
 每日一star，aioveuDailyStar
 
 
+
+2025/10/19
+
+18期
+1、
+db_tutorial
+用 C 从零创建一个简单的数据库
+7、
+xxl-job
+轻量级分布式任务调度框架，其核心设计目标是：开发迅速、学习简单、轻量级、易扩展，文档齐全。官网
+12、
+weweChat
+微信的第三方客户端。在完整实现 Web 微信功能的基础上，新增并优化部分功能，重设计整体 UI，提供更好的体验。Mac 安装命令：brew cask install wewechat
+17、
+china_area_mysql
+中国 5 级行政区域 MySQL 库
+
+
+
+
+
 2025/10/17
 
 19期
