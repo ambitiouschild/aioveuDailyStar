@@ -4,6 +4,37 @@
 
 每日一star，aioveuDailyStar
 
+
+
+2025/10/21
+
+16期
+2、
+VerificationCode
+滑动验证码 Demo，示例代码如下：
+4、
+RedisDesktopManager
+
+Redis 桌面管理工具
+7、
+android-interview-questions-cn
+很全面、高质量 Android 面试指南
+
+11、
+docker-dashboard
+
+基于控制台的 docker 工具，代码简单易读，可以做为学习 Node.js 的实践项目
+
+25、
+You-Dont-Need-jQuery
+
+前端发展很快，现代浏览器原生 API 已经足够好用。有些场景下我们并不需要为了操作 DOM、Event 等再学习一下 jQuery 的 API，该项目总结了大部分 jQuery API 替代的方法，中文
+
+
+
+
+
+
 2025/10/20
 
 17期
