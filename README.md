@@ -4,6 +4,26 @@
 
 每日一star，aioveuDailyStar
 
+2025/10/22
+
+15期
+
+1、
+mdui
+MDUI 是一套用于开发 Material Design 网页的响应式前端框架。没有任何依赖，支持主题切换，轻量级，低学习成本，文档
+4、
+FunGameRefresh
+好玩的下拉刷新控件
+6、
+font-spider
+字蛛是一个智能 WebFont 压缩工具，它能自动分析出页面使用的 WebFont 并进行按需压缩
+10、
+FLEX
+用于 iOS 开发的一组应用内调试工具，功能强大且多，多到不一一列举了
+
+18、
+English-level-up-tips
+如何提高英语技能
 
 
 2025/10/21
