@@ -4,6 +4,39 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/10/23
+
+14期
+1、
+ip2region
+IP 到地区的映射库，速度快（毫秒级）、准确性高（99.9%），妈妈再也不用担心我的 IP 地址定位，示例代码：
+4、
+fsql
+用 SQL 的语法搜索文件，酷吧
+7、
+druid
+
+一个 JDBC 组件库，包括数据库连接池、SQL Parser 等组件，同时能够提供强大的监控和扩展功能
+
+8、
+packer-ng-plugin
+Android 打包工具，支持极速打包，速度奇快
+
+20、
+CodeGuide
+腾讯前端团队代码规范
+
+22、
+ResumeSample
+
+程序员简历模板系列（Markdown）
+
+
+
+
+
+
 2025/10/22
 
 15期
