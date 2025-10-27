@@ -5,6 +5,31 @@
 每日一star，aioveuDailyStar
 
 
+
+2025/10/27
+
+11期
+4、
+GitClub
+GitClub 不仅仅是一个 GitHub 客户端，还是一个发现优秀 GitHub 开源项目的 Ap
+
+7、
+react-tetris
+逼真的俄罗斯方块（非常逼真、强大！），详细的技术介绍，在线试玩
+
+
+15、
+book
+雨痕大神写的学习笔记
+
+16、
+docker_practice
+Docker 从入门到实践
+17、
+nginx-book
+
+Nginx 开发从入门到精通——本书的作者为淘宝核心系统服务器平台组的成员
+
 2025/10/26
 
 12期
