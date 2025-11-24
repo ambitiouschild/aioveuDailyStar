@@ -4,6 +4,58 @@
 
 每日一star，aioveuDailyStar
 
+2025/11/24
+
+8期
+
+2、
+libco
+腾讯的开源项目——libco 是微信后台大规模使用的 C/C++ 协程库，2013 年至今稳定运行在微信后台的数万台机器上。
+
+无需侵入业务逻辑，把多进程、多线程服务改造成协程服务，并发能力得到百倍提升
+支持 CGI 框架，轻松构建 Web 服务
+支持 gethostbyname、mysqlclient、ssl 等常用第三方库
+可选的共享栈模式，单机轻松接入千万连接
+完善简洁的协程编程接口
+类 pthread 接口设计，通过 co_create、co_resume 等简单清晰接口即可完成协程的创建与恢复
+__thread 的协程私有变量、协程间通信的协程信号量 co_signal
+语言级别的 lambda 实现，结合协程原地编写并执行后台异步任务
+基于 epoll/kqueue 实现的小而轻的网络框架，基于时间轮盘实现的高性能定时器
+4、
+AndroidUtilCode
+Android 开发人员不得不收集的代码，中文介绍
+
+5、
+DanmakuFlameMaster
+Bilibili 开源的 Android 开源弹幕引擎·烈焰弹幕使。特性：
+
+使用多种方式(View/SurfaceView/TextureView)实现高效绘制
+该站 XML 弹幕格式解析
+基础弹幕精确还原绘制
+支持 mode7 特殊弹幕
+多核机型优化，高效的预缓存机制
+支持多种显示效果选项实时切换
+实时弹幕显示支持
+换行弹幕支持/运动弹幕支持
+支持自定义字体
+支持多种弹幕参数设置
+支持多种方式的弹幕屏蔽
+
+10、
+reddit
+reddit.com 网站的源码，通过这个项目，可以学习 Python 在构建大型项目中的使用、项目结构、代码风格、Python 技巧的使用方法等。安装教程
+
+
+13、
+jstraining
+阮一峰写的全栈工程师培训材料
+
+
+17、
+the-swift-programming-language-in-chinese
+中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+
+
 
 
 2025/11/14
