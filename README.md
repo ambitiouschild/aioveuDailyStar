@@ -4,6 +4,37 @@
 
 每日一star，aioveuDailyStar
 
+
+
+2025/11/25
+
+7期
+
+4、
+cssicon
+
+纯 CSS 实现的 icon
+
+
+
+6、
+clipboard.js
+
+实现了点击文本内容的 JavaScript 插件，优点：最新、极小、无任依赖、使用简单方便。在线文档
+15、
+static
+这个项目是一个仓库，它尽可能全面收录优秀的开源库，并免费为之提供 CDN 加速服务，使之有更好的访问速度和稳定的环境。
+同时，它也提供开源库源接入的入口，让所有人都可以提交开源库，包括 JavaScript、CSS、image 和 swf 等静态文件。访问 Staticfile CDN
+
+
+
+
+
+
+
+
+
+
 2025/11/24
 
 8期
