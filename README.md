@@ -4,6 +4,27 @@
 
 每日一star，aioveuDailyStar
 
+
+2025/11/27
+
+5期
+1、
+WeiXinMPSDK
+微信公众平台 SDK，支持 .NET Framework 及 .NET Core。已支持微信公众号、企业号、开放平台、微信支付、JSSDK。此项目开源、免费、持续维护。
+
+4、
+share.js
+一键分享到微博、QQ 空间、QQ 好友、微信、腾讯微博、豆瓣等社交网站的 JavaScript 项目。在线演示
+
+8、
+superset
+企业级的数据探索、展示平台。功能很强大，可以用来做数据分析、展示。如下图：
+
+12、
+Solve-App-Store-Review-Problem
+
+App Store 审核未通过的解决方案。
+
 2025/11/26
 
 6期
