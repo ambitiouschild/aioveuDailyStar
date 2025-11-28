@@ -5,6 +5,21 @@
 每日一star，aioveuDailyStar
 
 
+2025/11/28
+
+4期
+1、
+cachecloud
+搜狐视频开源的 CacheCloud 项目，提供了一个 Redis 云管理平台，功能强大，教程详细（有视频教程），文档齐全，企业级开源项目
+10、
+interview
+笔试面试知识整理(涵盖：IOS、Android、计算机基础)，在线阅读
+12、
+neural-networks-and-deep-learning
+《神经网络与深度学习》相关代码 Python 实现，神经网络与深度学习－中文在线阅读，该书中的相关理论的 Python 代码实现
+
+
+
 2025/11/27
 
 5期
