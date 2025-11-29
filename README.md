@@ -4,6 +4,24 @@
 
 每日一star，aioveuDailyStar
 
+2025/11/29
+
+3期
+4、
+greys-anatomy
+Greys 是 Java 在线问题诊断工具。
+5、
+editor.md
+是一款开源的、可嵌入的 Markdown 在线编辑器（组件），基于 CodeMirror、jQuery 和 Marked 构建。在线尝试，使用展示如图：
+
+8、
+walle-web
+
+Walle（瓦力） 一个 Web 部署系统工具，可能也是个持续发布工具，配置简单、功能完善、界面流畅、开箱即用！
+支持 git、svn 版本管理，支持各种 Web 代码发布，静态的 HTML，动态 PHP，需要编译的 Java 等。中文介绍，使用展示如图：
+
+
+
 
 2025/11/28
 
