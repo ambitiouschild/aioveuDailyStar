@@ -4,7 +4,33 @@
 
 每日一star，aioveuDailyStar
 
+2025/12/1
 
+1期
+
+2、
+activate-power-mode
+爆炸输入效果，在线演示
+4、
+VeryNginx
+一个功能强大而对人类友好的 Nginx 扩展程序。VeryNginx 文档
+
+6、
+beijing_bus
+北京实时公交，可以显示查询的公交到达某站还需多久
+9、
+archey-osx
+命令行中显示 Mac OS X 计算机的基本信息
+
+11、
+github
+
+
+《GitHub 漫游指南》该指南能够让新手学会如何使用 GitHub 网站，从而加入到开源社区。phodal 从他和 GitHub 的青涩故事写起，全方位地介绍了 GitHub 这个网站，以及如何合理地使用这个网站
+
+17、
+the_new_world_linux
+《Linux 下的惬意生活》，在线阅读
 
 2025/11/30
 
