@@ -4,6 +4,12 @@
 
 每日一star，aioveuDailyStar
 
+2026/4/24
+
+
+最好的偷懒方式就是一次性做好
+The best way to be lazy is to do it right the first time 
+不达目的，，誓不罢休
 
 
 2026/4/23
