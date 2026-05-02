@@ -4,6 +4,9 @@
 
 每日一star，aioveuDailyStar
 
+2026/5/2
+
+趁早, 永远不要等
 
 2026/5/1
 
