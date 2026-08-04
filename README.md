@@ -4,7 +4,9 @@
 
 每日一star，aioveuDailyStar
 
+2026/8/4
 
+必须独立自主
 
 2026/8/3
 
